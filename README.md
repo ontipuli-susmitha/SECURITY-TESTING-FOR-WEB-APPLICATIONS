@@ -76,3 +76,5 @@ Identified vulnerability details (risk level)
 Error message or information leakage screen
 
 ## Output
+Invalid login test
+![Image](https://github.com/user-attachments/assets/70283412-9ce1-4646-bffc-a40d22a513ea)
