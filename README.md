@@ -2,9 +2,9 @@
 ## CODTECH Internship - Task-3
 "Company" : CODTECH IT SOLUTIONS
 
-"Intern Name":Madaraboyina Hema Latha
+"Intern Name":ontipuli.susmitha
 
-"Intern ID":CTIS2560
+"Intern ID":CTIS2672
 
 "Domain":Software Testing
 
@@ -88,3 +88,5 @@ SQL injection test
 ![Image](https://github.com/user-attachments/assets/996024de-e917-4a6d-87a6-35af7552ae11)
 
 Forgot Password test
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c85a59cc-4559-46ed-8ddc-f688bee6f774" />
+
